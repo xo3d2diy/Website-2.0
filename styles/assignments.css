@@ -1,0 +1,62 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#012f5e;
+    font-family: IBM Plex Sans
+  }
+  
+  li {
+    float:left;
+  }
+  
+  li a {
+    display: block;
+    color:#e8c16d;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 19pt;
+  }
+  
+  
+  li a:hover {
+    background-color: #212121;
+    
+  }
+  body {
+    background-color:  #eddfe9;
+    font-family: IBM Plex Sans; 
+  }
+   
+  tr {font-size: 18pt;
+
+  }
+table {text-align: center;
+
+}
+
+h1{ font-size: 36pt;
+    border: 1px;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    background-color: #d1d1d1;
+    border: 2px solid black;
+    border-radius: 6px;
+    
+}
+
+p{ font-size: 16pt;
+    border: 1px;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 10px 12px;
+
+
+
+}
