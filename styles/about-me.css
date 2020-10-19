@@ -30,7 +30,7 @@ ul {
   body {
     background-color: #f5e3ce;
     font-family: IBM Plex Sans;
-    font-size: 15pt;
+    font-size: 17pt;
   }
     p { border: 2px solid black;
         border-radius: 6px;
@@ -51,4 +51,8 @@ ul {
     border: 2px solid black;
     border-radius: 6px;
     
+}
+
+img {width: 40%;
+
 }

@@ -53,6 +53,10 @@ ul {
     
 }
 
-img {width: 100%;
-
+img {width: 70%;
+     align-items: center;
 }
+
+h3 {
+    border: 5px solid rgb(187, 156, 99);
+  }
