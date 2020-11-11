@@ -23,7 +23,7 @@
     
       //DECRYPTION HERE 
 
-      function decrypt(){
+      function decrypt() {
        
         let ciphertext = prompt("Enter your encrypted message here :)");
         let plaintext = "";
