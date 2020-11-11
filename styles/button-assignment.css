@@ -1,0 +1,14 @@
+p {
+    {font-size: 18pt;
+        border: 1px;
+        display: block;
+        color: rgb(243, 242, 240);
+        text-align: center;
+        padding: 10px 12px;
+        text-decoration: none;
+        background-color: #a18561;
+        border: 2px solid black;
+        border-radius: 5px;
+    
+    }
+}
